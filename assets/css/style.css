@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Mandali&family=Raleway&family=Roboto:wght@300&display=swap");
+
+/* --VARIABLES-- */
+:root {
+    --ff-logo: "Lato", sans-serif;
+    --ff-main: "Mandali", sans-serif;
+    --ff-secondary: "Roboto", sans-serif;
+    --fw-l: 300;
+    --fw-m: 400;
+    --clr-bg: #f7f7f7;
+    --clr-primary: #393e46;
+    --clr-secondary: #f2e7d5;
+
+}
