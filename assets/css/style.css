@@ -234,20 +234,13 @@ h6 {
     gap: 2rem;
 }
 
-.about-us__technology {
-    padding-top: 4rem;
-}
-
 .about-us__card {
-    width: 80%;
-    border: 1px solid var(--clr-primary);
-    border-radius: 4px;
-    font-size: 1.5rem;
     width: 25rem;
     flex: 0 0 auto;
     background-color: var(--clr-primary);
-    /* color: var(--clr-secondary); */
-    object-fit: fill;
+    border: 1px solid var(--clr-primary);
+    border-radius: 4px;
+    font-size: 1.5rem;
 }
 
 .sml-padding {
