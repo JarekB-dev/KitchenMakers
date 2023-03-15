@@ -153,5 +153,17 @@ h6 {
     background-size: cover;
     background-color: grey;
     background-blend-mode: multiply;
+    animation: hero-zoom 4s forwards;
+}
 
+/* Animation for hero backgroud */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
 }
