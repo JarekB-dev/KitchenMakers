@@ -63,3 +63,84 @@ h5,
 h6 {
     overflow-wrap: break-word;
 }
+
+/* --UTILITIES-- */
+
+.ffmain {
+    font-family: var(--ff-main);
+    font-weight: var(--fw-m);
+}
+
+.fflogo {
+    font-family: var(--ff-logo);
+    font-weight: var(--fw-l);
+}
+
+.tshdw {
+    text-shadow: 0 0 2px #000;
+}
+
+.bshdw {
+    box-shadow: 0 0 3px #000;
+}
+
+.txt-decor {
+    text-decoration: none;
+}
+
+.list-style {
+    list-style: none;
+
+}
+
+.clr-secondary {
+    color: var(--clr-secondary);
+}
+
+/* --HEADER-- */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+    background-color: var(--clr-primary);
+    box-shadow: 0 0 5px #000;
+}
+
+.navbar__logo {
+    font-size: 2rem;
+    letter-spacing: 5px;
+}
+
+.navbar__logo-span {
+    font-size: 2rem;
+    margin: 10px 20px;
+    padding-left: 6px;
+    border: 1px solid var(--clr-secondary);
+}
+
+.navbar__sections {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+}
+
+.navbar__link {
+    width: 12rem;
+    height: 2rem;
+    letter-spacing: 5px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.navbar__link-hover:hover {
+    border-bottom: 1px solid var(--clr-secondary);
+    padding-bottom: 5px;
+
+}
