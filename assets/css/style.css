@@ -97,6 +97,10 @@ h6 {
     color: var(--clr-secondary);
 }
 
+.clr-primary {
+    color: var(--clr-primary);
+}
+
 /* --HEADER-- */
 
 .navbar {
@@ -186,4 +190,24 @@ h6 {
 .hero__message-small {
     margin-top: 2rem;
     font-size: 2rem;
+}
+
+/* --ABOUT US-- */
+
+#about-us {
+    width: 50%;
+    margin: 2rem auto;
+    padding: 8rem 0;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.about-us__info {
+    font-family: var(--ff-secondary);
+    margin-top: 2rem;
+    font-size: 0.8em;
+}
+
+.about-us-span {
+    font-weight: 800;
 }
