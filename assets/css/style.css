@@ -87,7 +87,7 @@ h6 {
 }
 
 .bshdw {
-    box-shadow: 0 0 3px #000;
+    box-shadow: 0 0 5px #000;
 }
 
 .txt-decor {
@@ -115,6 +115,14 @@ h6 {
     font-size: 0.8em;
 }
 
+.bottom-margin {
+    margin-bottom: 1rem;
+}
+
+.b-radius {
+    border-radius: 10px;
+}
+
 /* --HEADER-- */
 
 .navbar {
@@ -123,13 +131,10 @@ h6 {
     align-items: center;
     flex-wrap: wrap;
     position: fixed;
-    top: 0;
     z-index: 99;
+    top: 0;
     width: 100%;
-    /* background-color: var(--clr-primary); */
-    background: linear-gradient(to bottom, #393e46, grey);
-
-    box-shadow: 0 0 5px #000;
+    background: linear-gradient(to right, #393e46, rgba(58, 57, 57, 0.897));
 }
 
 .navbar__logo {
@@ -197,6 +202,8 @@ h6 {
     right: 25%;
     padding: 5rem;
     text-align: center;
+    text-shadow: 0 0 3px black, 0 -3px 15px black;
+
 }
 
 .hero__message-big {
@@ -206,6 +213,8 @@ h6 {
 .hero__message-small {
     margin-top: 2rem;
     font-size: 2rem;
+    text-shadow: 0 0 3px black, 0 -3px 15px black;
+
 }
 
 /* --ABOUT US-- */
@@ -239,10 +248,12 @@ h6 {
 .about-us__card {
     width: 25rem;
     flex: 0 0 auto;
-    background: linear-gradient(to bottom, #393e46, grey);
+    /* background: linear-gradient(to bottom, #393e46, grey); */
+    background: linear-gradient(to bottom, rgba(57, 62, 70, 0.8), grey);
+
     border: 1px solid var(--clr-primary);
-    border-radius: 4px;
     font-size: 1.5rem;
+    overflow: hidden;
 }
 
 .sml-padding {
@@ -269,6 +280,7 @@ h6 {
     text-align: center;
     font-size: 6rem;
     color: var(--clr-secondary);
+    text-shadow: 0 0 3px black, 0 -3px 10px black;
 }
 
 .design-steps__list {
@@ -290,6 +302,7 @@ h6 {
     height: 12rem;
     letter-spacing: 2px;
     background: linear-gradient(to bottom, rgba(57, 62, 70, 0.8), grey);
-    color: var(--clr-secondary);
     font-size: 1.2rem;
+    text-shadow: 0 0 3px black, 0 -3px 10px black;
+
 }
