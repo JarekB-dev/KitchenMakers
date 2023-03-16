@@ -308,13 +308,13 @@ h6 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 0 auto;
+    margin: 0 auto 4rem;
 
 }
 
 .contact__title {
     width: 100%;
-    padding-top: 6rem;
+    padding-top: 4rem;
     text-align: center;
     font-size: 3rem;
 }
@@ -392,11 +392,27 @@ h6 {
 
 .footer__brand {
     padding-top: 1rem;
-    /* font-weight: 300; */
 }
 
 .footer__brand-span {
-    ;
     padding: 0 5px;
     background-color: var(--clr-secondary);
+}
+
+.footer__socials {
+    display: inline-block;
+    margin: 2rem;
+
+}
+
+.footer__icons:hover {
+    filter: invert(50%);
+}
+
+.footer__signature {
+    font-size: 0.8rem;
+}
+
+.footer__signature-span {
+    font-size: 1.2rem;
 }
