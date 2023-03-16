@@ -341,7 +341,7 @@ h6 {
 }
 
 .contact__details {
-    min-width: 55%;
+    min-width: 25%;
     padding: 3.4rem;
     margin-left: 3rem;
     text-align: left;
@@ -380,8 +380,4 @@ h6 {
     background: var(--clr-primary);
     color: var(--clr-secondary);
     box-shadow: 0 0 5px var(--clr-primary);
-}
-
-iframe {
-    width: 100%;
 }
