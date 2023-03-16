@@ -381,3 +381,22 @@ h6 {
     color: var(--clr-secondary);
     box-shadow: 0 0 5px var(--clr-primary);
 }
+
+/* --FOOTER-- */
+
+.footer {
+    background-color: var(--clr-primary);
+    overflow: hidden;
+    text-align: center;
+}
+
+.footer__brand {
+    padding-top: 1rem;
+    /* font-weight: 300; */
+}
+
+.footer__brand-span {
+    ;
+    padding: 0 5px;
+    background-color: var(--clr-secondary);
+}
