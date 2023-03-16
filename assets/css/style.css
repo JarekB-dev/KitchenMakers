@@ -118,6 +118,10 @@ h6 {
     font-size: 2rem;
 }
 
+.fs-medium {
+    font-size: 1.2rem;
+}
+
 .fs-small {
     font-size: 0.8em;
 }
@@ -149,7 +153,6 @@ h6 {
 }
 
 .navbar__logo {
-    font-size: 2rem;
     letter-spacing: 5px;
 }
 
@@ -171,7 +174,6 @@ h6 {
     width: 12rem;
     height: 2rem;
     letter-spacing: 5px;
-    font-size: 1.2rem;
     text-align: left;
 }
 
@@ -229,14 +231,12 @@ h6 {
     width: 70%;
     margin: 2rem auto;
     padding: 8rem 0;
-    font-size: 2rem;
     text-align: center;
 }
 
 .about-us__info {
     font-family: var(--ff-secondary);
     margin-top: 2rem;
-    font-size: 0.8em;
 }
 
 .about-us-span {
@@ -284,7 +284,6 @@ h6 {
     justify-content: center;
     flex-wrap: wrap;
     width: 100%;
-    font-size: 2rem;
     list-style: none;
     position: absolute;
     bottom: 35%;
@@ -297,7 +296,6 @@ h6 {
     width: 25rem;
     height: 12rem;
     letter-spacing: 2px;
-    font-size: 1.2rem;
 }
 
 /* --CONTACT US-- */
@@ -359,7 +357,6 @@ h6 {
 .contact__button {
     width: 10rem;
     margin-right: 1rem;
-    font-size: 1.2rem;
     border: 2px solid black;
 }
 
@@ -406,12 +403,4 @@ h6 {
 
 .footer__icons:hover {
     filter: invert(50%);
-}
-
-.footer__signature {
-    font-size: 0.8rem;
-}
-
-.footer__signature-span {
-    font-size: 1.2rem;
 }
