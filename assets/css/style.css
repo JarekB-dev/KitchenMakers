@@ -340,10 +340,6 @@ h6 {
     margin-top: 1.5rem;
 }
 
-.flextest {
-    display: inline-block;
-}
-
 .contact__details {
     min-width: 55%;
     padding: 3.4rem;
@@ -386,6 +382,6 @@ h6 {
     box-shadow: 0 0 5px var(--clr-primary);
 }
 
-.divaiframe {
-    display: inline-block;
+iframe {
+    width: 100%;
 }
