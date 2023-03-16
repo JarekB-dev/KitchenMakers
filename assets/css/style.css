@@ -466,4 +466,12 @@ h6 {
     .about-us__info {
         padding: 0;
     }
+
+    .design-steps__list {
+        top: 30%
+    }
+
+    .contact__title {
+        padding-top: 6rem;
+    }
 }
