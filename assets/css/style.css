@@ -301,3 +301,26 @@ h6 {
     letter-spacing: 2px;
     font-size: 1.2rem;
 }
+
+/* --CONTACT US-- */
+
+#contact {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+.contact__title {
+    width: 100%;
+    padding-top: 6rem;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.contact__form {
+    width: 50rem;
+
+}
