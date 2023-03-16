@@ -322,5 +322,21 @@ h6 {
 
 .contact__form {
     width: 50rem;
+    padding-top: 2rem;
+    font-family: var(--ff-secondary);
+}
 
+#fname,
+#email,
+#pnumber,
+#message {
+    width: 100%;
+    /* background-color: var(--clr-bg); */
+    border: 2px solid var(--clr-primary);
+    border-radius: 3px;
+    margin-bottom: 0.5rem;
+}
+
+#message {
+    margin-top: 1.5rem;
 }
