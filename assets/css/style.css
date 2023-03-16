@@ -193,7 +193,7 @@ h6 {
     animation: hero-zoom 4s forwards;
 }
 
-/* Animation for hero backgroud */
+/* Animation for hero background */
 
 @keyframes hero-zoom {
     from {
@@ -221,7 +221,6 @@ h6 {
 
 .hero__message-small {
     margin-top: 2rem;
-    font-size: 2rem;
 }
 
 /* --ABOUT US-- */
