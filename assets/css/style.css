@@ -84,7 +84,9 @@ h6 {
 
 .linear-bg {
     background: linear-gradient(to bottom, #393e46e8, rgba(66, 65, 65, 0.897));
+
 }
+
 
 .tshdw {
     text-shadow: 0 0 2px #000;
@@ -112,6 +114,14 @@ h6 {
 
 .clr-primary {
     color: var(--clr-primary);
+}
+
+.bg-primary {
+    background-color: var(--clr-primary);
+}
+
+.bg-secondary {
+    background-color: var(--clr-secondary);
 }
 
 .fs-big {
@@ -235,8 +245,10 @@ h6 {
 }
 
 .about-us__info {
-    font-family: var(--ff-secondary);
+    font-size: 1.5rem;
     margin-top: 2rem;
+    font-style: italic;
+    padding: 3.5rem;
 }
 
 .about-us-span {
@@ -248,14 +260,13 @@ h6 {
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 5rem;
-    gap: 2rem;
+    gap: 3rem;
 }
 
 .about-us__card {
     width: 25rem;
     flex: 0 0 auto;
     border: 1px solid var(--clr-primary);
-    font-size: 1.5rem;
     overflow: hidden;
 }
 
@@ -316,6 +327,8 @@ h6 {
     font-size: 3rem;
 }
 
+/* CONTACT - LEFT SIDE */
+
 .contact__form {
     width: 40rem;
     padding-top: 2rem;
@@ -335,21 +348,6 @@ h6 {
 #message {
     resize: none;
     margin-top: 1.5rem;
-}
-
-.contact__details {
-    min-width: 25%;
-    padding: 3.4rem;
-    margin-left: 3rem;
-    text-align: left;
-}
-
-.contact__details-title {
-    margin-bottom: 1rem;
-}
-
-.contact__table-padding {
-    padding-right: 10px;
 }
 
 /* BUTTONS */
@@ -376,6 +374,23 @@ h6 {
     background: var(--clr-primary);
     color: var(--clr-secondary);
     box-shadow: 0 0 5px var(--clr-primary);
+}
+
+/* CONTACT - RIGHT SIDE */
+
+.contact__details {
+    min-width: 25%;
+    padding: 3.4rem;
+    margin-left: 3rem;
+    text-align: left;
+}
+
+.contact__details-title {
+    margin-bottom: 1rem;
+}
+
+.contact__table-padding {
+    padding-right: 10px;
 }
 
 /* --FOOTER-- */
