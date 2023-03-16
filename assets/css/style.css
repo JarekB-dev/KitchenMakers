@@ -8,7 +8,7 @@
     --ff-secondary: "Roboto", sans-serif;
     --fw-l: 300;
     --fw-m: 400;
-    --clr-bg: #f7f7f7;
+    --clr-light: #f7f7f7;
     --clr-primary: #393e46;
     --clr-secondary: rgb(242, 231, 213);
 }
@@ -172,7 +172,7 @@ h6 {
     height: 2rem;
     letter-spacing: 5px;
     font-size: 1.2rem;
-    text-align: center;
+    text-align: left;
 }
 
 .navbar__link-hover:hover {
@@ -332,9 +332,11 @@ h6 {
     border: 2px solid var(--clr-primary);
     border-radius: 3px;
     margin-bottom: 0.5rem;
+    background-color: var(--clr-light);
 }
 
 #message {
+    resize: none;
     margin-top: 1.5rem;
 }
 
@@ -357,7 +359,7 @@ h6 {
 
 .contact__button {
     width: 10rem;
-    margin: 1rem;
+    margin-right: 1rem;
     font-size: 1.2rem;
     border: 2px solid black;
 }
@@ -365,5 +367,18 @@ h6 {
 .contact__button:hover {
     background: var(--clr-secondary);
     color: var(--clr-primary);
-    box-shadow: 0 0 15px var(--clr-primary);
+    box-shadow: 0 0 10px var(--clr-primary);
+}
+
+.contact__button-reset {
+    width: 5rem;
+    font-size: 1.1rem;
+    background: var(--clr-secondary);
+}
+
+.contact__button-reset:hover {
+    background: var(--clr-primary);
+    color: var(--clr-secondary);
+    box-shadow: 0 0 5px var(--clr-primary);
+
 }
