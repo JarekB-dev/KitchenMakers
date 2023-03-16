@@ -439,8 +439,6 @@ h6 {
 
 /* --MEDIA QUERIES-- */
 
-
-
 @media only screen and (max-width: 980px) {
     .navbar__logo {
         width: 96%;
@@ -465,6 +463,10 @@ h6 {
 
     .about-us__info {
         padding: 0;
+    }
+
+    .design-steps__title {
+        font-size: 4rem;
     }
 
     .design-steps__list {
