@@ -323,7 +323,6 @@ h6 {
 .contact__form {
     width: 50rem;
     padding-top: 2rem;
-    font-family: var(--ff-secondary);
 }
 
 #fname,
@@ -339,4 +338,19 @@ h6 {
 
 #message {
     margin-top: 1.5rem;
+}
+
+.contact__details {
+    min-width: 30%;
+    padding: 3.4rem;
+    margin-left: 3rem;
+    text-align: left;
+}
+
+.contact__details-title {
+    margin-bottom: 1rem;
+}
+
+.table-padding {
+    padding-right: 10px;
 }
