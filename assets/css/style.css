@@ -10,7 +10,7 @@
     --fw-m: 400;
     --clr-bg: #f7f7f7;
     --clr-primary: #393e46;
-    --clr-secondary: #f2e7d5;
+    --clr-secondary: rgb(242, 231, 213);
 }
 
 /* --RESET CSS-- */
@@ -36,7 +36,7 @@ body {
 body {
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
-    background-color: var(--clr-bg);
+    background-color: var(--clr-secondary);
 }
 
 img,
@@ -104,7 +104,6 @@ h6 {
 
 .list-style {
     list-style: none;
-
 }
 
 .clr-secondary {
@@ -129,6 +128,10 @@ h6 {
 
 .b-radius {
     border-radius: 10px;
+}
+
+.sml-padding {
+    padding: 1rem;
 }
 
 /* --HEADER-- */
@@ -257,10 +260,6 @@ h6 {
     overflow: hidden;
 }
 
-.sml-padding {
-    padding: 1rem;
-}
-
 /* --DESIGN STEPS-- */
 
 .design-steps {
@@ -330,7 +329,6 @@ h6 {
 #pnumber,
 #message {
     width: 100%;
-    /* background-color: var(--clr-bg); */
     border: 2px solid var(--clr-primary);
     border-radius: 3px;
     margin-bottom: 0.5rem;
@@ -351,6 +349,21 @@ h6 {
     margin-bottom: 1rem;
 }
 
-.table-padding {
+.contact__table-padding {
     padding-right: 10px;
+}
+
+/* --BUTTONS-- */
+
+.contact__button {
+    width: 10rem;
+    margin: 1rem;
+    font-size: 1.2rem;
+    border: 2px solid black;
+}
+
+.contact__button:hover {
+    background: var(--clr-secondary);
+    color: var(--clr-primary);
+    box-shadow: 0 0 15px var(--clr-primary);
 }
