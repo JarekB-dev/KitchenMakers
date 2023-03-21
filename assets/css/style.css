@@ -452,16 +452,16 @@ h6 {
 
     .hero__message {
         top: 45%;
-        left: 5%;
-        width: 90%;
+        left: 10%;
+        width: 80%;
     }
 
     .hero__message-big {
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     .hero__message-small {
-        font-size: 1em;
+        font-size: 1.8em;
     }
 
     #about-us {
@@ -482,6 +482,10 @@ h6 {
 
     .contact__title {
         padding-top: 6rem;
+    }
+
+    .footer__socials {
+        margin: 1rem;
     }
 }
 
@@ -511,8 +515,13 @@ h6 {
 }
 
 @media only screen and (max-width: 410px) {
+
     .navbar__logo {
         font-size: 1.5rem;
+    }
+
+    .hero__message-small {
+        font-size: 1.2rem;
     }
 
     .design-steps__list {
