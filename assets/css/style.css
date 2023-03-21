@@ -457,19 +457,23 @@ h6 {
     }
 
     .hero__message-big {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .hero__message-small {
-        font-size: 1.5em;
+        font-size: 1em;
+    }
+
+    #about-us {
+        width: 100%;
     }
 
     .about-us__info {
-        padding: 0;
+        padding: 1rem;
     }
 
     .design-steps__title {
-        font-size: 4rem;
+        font-size: 3rem;
     }
 
     .design-steps__list {
@@ -482,10 +486,19 @@ h6 {
 }
 
 @media only screen and (max-width: 768px) {
+
+    .navbar__logo {
+        font-size: 1.8rem;
+    }
+
     .design-steps__card {
         width: 90%;
         height: 10%;
         font-size: 1rem;
+    }
+
+    .contact__form {
+        margin: 10px;
     }
 
     .gallery {
@@ -494,5 +507,15 @@ h6 {
 
     .gallery__image {
         margin-top: 1rem;
+    }
+}
+
+@media only screen and (max-width: 410px) {
+    .navbar__logo {
+        font-size: 1.5rem;
+    }
+
+    .design-steps__list {
+        top: 25%
     }
 }
