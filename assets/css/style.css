@@ -517,7 +517,15 @@ h6 {
 @media only screen and (max-width: 410px) {
 
     .navbar__logo {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
+    }
+
+    .navbar__link {
+        font-size: 1rem;
+    }
+
+    .hero__message {
+        top: 30%
     }
 
     .hero__message-small {
