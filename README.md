@@ -1,10 +1,10 @@
 # $${\color{grey}ꓘ|M \space \color{beige}Kitchen \space Makers}$$
 
-## This project is a website for Kitchen Makers, a fictional company specializing in designing, manufacturing, and installing custom kitchens.
+## **This project is a website for Kitchen Makers, a fictional company specializing in designing, manufacturing, and installing custom kitchens.**
 
 ---
 
-### Kitchen Makers' goal is to help customers create their dream kitchen by offering a wide variety of options and customizations. The website will provide customers with information about the company, its products and services, and the process of designing, manufacturing, and installing custom kitchens.
+### _Kitchen Makers' goal is to help customers create their dream kitchen by offering a wide variety of options and customizations. The website will provide customers with information about the company, its products and services, and the process of designing, manufacturing, and installing custom kitchens._
 
 ---
 
@@ -31,7 +31,7 @@
 
 # $${\color{orange}UX}$$
 
-<a name= "ux"></a>
+<a name="ux"></a>
 
 ### During the design process, I approached it from two different perspectives - Client and Business Owner. The goals and priorities of each party are different and require different approaches to be able to fulfill their needs :
 
@@ -108,4 +108,4 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 # $${\color{orange}Features}$$
 
-<a name= "features"></a>
+<a name="features"></a>
