@@ -109,3 +109,23 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 # $${\color{orange}Features}$$
 
 <a name="features"></a>
+
+**Navigation Bar**
+
+![Navigation Bar](assets/images/features/navbar.png)
+
+> Navigation Bar with fixed top position containing brand and links for quicker navigation.
+
+**Hero Section**
+
+![Hero Image and Slogan](assets/images/features/hero.png)
+
+> full size image with scale animation and slogan in the middle of the screen.
+
+**About Us Section**
+
+![About us section and cards](assets/images/features/about-us.png)
+
+Section showcasing company and its values followed with 3 cards that tell potential customers more about the company
+
+![About us cards](assets/images/features/about-us-cards.png)
