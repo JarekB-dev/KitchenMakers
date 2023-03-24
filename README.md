@@ -230,3 +230,51 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 <a name="testing"></a>
 
 # $${\color{orange}Testing}$$
+
+## Devices
+
+#### I was testing project myself with help of my colleagues to check responsivness on different devices and to make sure that website is easy to navigate. Testing was performed on below devices:
+
+> Desktop with viewport 2560x1440
+
+> Macbook Air with viewport 1440x900
+
+> iPad with viewport of 768x1024
+
+> iPhone 12 Pro with viewport of 390x844
+
+- My project was fully responsive with proper and expected layout. All links and buttons were working correctly.
+
+- Flexbox was working correctly with expected results.
+
+- Portfolio images with Grid layout were behaving properly and changing to block display on smaller screens.
+
+## User Testing
+
+I have asked 5 users to check below functionality on their laptops and mobile devices:
+
+1. Can you navigate through the website using scroll and/or navigation links.
+
+2. Can you fill and submit contact form.
+
+3. Can you find address and phone number to Kitchen Makers.
+
+4. Can you find and visit Kitchen Makers social media.
+
+5. Can you say what Kitchen Makers website is about.
+
+6. Can you navigate to Portfolio and see previous projects.
+
+7. Is contrast ratio enough for you to see text and information clearly.
+
+Results of the test :
+
+| Question | User 1 | User 2 | User 3 | User 4 | User 5 |
+| -------- | ------ | ------ | ------ | ------ | ------ |
+| 1        | Yes    | Yes    | Yes    | Yes    | Yes    |
+| 2        | Yes    | Yes    | Yes    | Yes    | Yes    |
+| 3        | Yes    | Yes    | Yes    | Yes    | Yes    |
+| 4        | Yes    | Yes    | Yes    | Yes    | Yes    |
+| 5        | Yes    | Yes    | Yes    | Yes    | Yes    |
+| 6        | Yes    | Yes    | Yes    | Yes    | Yes    |
+| 7        | Yes    | Yes    | Yes    | Yes    | Yes    |
