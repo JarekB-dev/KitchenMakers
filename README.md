@@ -24,7 +24,7 @@
 2. [Features](#features)
 3. [Features to implement](#implement)
 4. [Testing](#testing)
-5. [Technology Used](#technologies)
+5. [Technologies Used](#technologies)
 6. [Deployment](#deployment)
 7. [Content](#content)
 8. [Credits](#credits)
@@ -216,6 +216,10 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 ## Favicon.cc
 
 > Used to create Favicon Logo.
+
+## Font Awesome
+
+> Used to for social media icons in my project.
 
 ## Freeconvert.com
 
