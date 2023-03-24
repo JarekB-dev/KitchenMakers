@@ -278,3 +278,31 @@ Results of the test :
 | 5        | Yes    | Yes    | Yes    | Yes    | Yes    |
 | 6        | Yes    | Yes    | Yes    | Yes    | Yes    |
 | 7        | Yes    | Yes    | Yes    | Yes    | Yes    |
+
+---
+
+## Google Chrome Lighthouse
+
+1. Main Page
+
+![Google Chrome Lighthouse result for index.html](assets/images/testing/index-lighthouse.png)
+
+2. Portfolio
+
+![Google Chrome Lighthouse result for portfolio.html](assets/images/testing/portfolio-lighthouse.png)
+
+## HTML Validator
+
+1. index.html
+
+![index.html validated by HTML Validator](assets/images/testing/html-validated.png)
+
+> Warnings regarding using a forward slash with a void (single tag) elements.
+
+2. portfolio.html
+
+![portfolio.html validated by HTML Validator](assets/images/testing/portfolio-validated.png)
+
+## CSS Validator
+
+![Css validated by CSS Validator](assets/images/testing/css-validated.png)
