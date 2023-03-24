@@ -23,8 +23,8 @@
 1. [UX](#ux)
 2. [Features](#features)
 3. [Features to implement](#implement)
-4. [Testing](#testing)
-5. [Technologies Used](#technologies)
+4. [Technologies Used](#technologies)
+5. [Testing](#testing)
 6. [Deployment](#deployment)
 7. [Content](#content)
 8. [Credits](#credits)
@@ -224,3 +224,9 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 ## Freeconvert.com
 
 > Used to convert my images to Webp format for smaller sizes and improving loading times.
+
+---
+
+<a name="testing"></a>
+
+# $${\color{orange}Testing}$$
