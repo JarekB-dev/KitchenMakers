@@ -306,3 +306,15 @@ Results of the test :
 ## CSS Validator
 
 ![Css validated by CSS Validator](assets/images/testing/css-validated.png)
+
+## Bugs
+
+1. Hero image causing horizontal scrolling because of animation - **FIXED**
+
+2. Navigation Bar not changing layout properly for smaller devices - **FIXED**
+
+3. About us cards not behaving for different screen sizes - **FIXED**
+
+4. Adjusted paddings for sections to make up for fixed navigation bar to make sure it does not cover content - **FIXED**
+
+5. Grid issue with correctly displaying images on portfolio.html site. - **FIXED**
