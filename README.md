@@ -24,7 +24,7 @@
 2. [Features](#features)
 3. [Features to implement](#implement)
 4. [Testing](#testing)
-5. [Technologies used](#technologies)
+5. [Technology Used](#technologies)
 6. [Deployment](#deployment)
 7. [Content](#content)
 8. [Credits](#credits)
@@ -39,7 +39,8 @@
 > Potential Client :
 
     - I would like to find company specialised in custom kitchens.
-    - I would like to see what materials, brands and technology they use to make sure they will be able to fullfil all orders.
+    - I would like to see what materials, brands and technology they use to make sure they will be able
+    to fullfil all orders.
     - I would like to see portoflio of the company to make sure they are reliable company.
     - I would like to contact the company via phone or email.
     - I would like to know the showroom address and opening hours.
@@ -47,11 +48,14 @@
 > Business Owner :
 
     - I would like to present my company to potential customers.
-    - I would like my website to be fully responsive as currently more people view websites on mobile devices than desktops/laptops.
+    - I would like my website to be fully responsive as currently more people
+    view websites on mobile devices than desktops/laptops.
     - I would like to ensure potential customers that we are competent and experienced company.
     - I would like to showcase my previous projects.
-    - I would like my customers to easily be able to navigate through our website and find contact information.
-    - I would like to give opportunity my clients to contact us via email as some customers prefer this form of communication.
+    - I would like my customers to easily be able to navigate through our website and find
+    contact information.
+    - I would like to give opportunity my clients to contact us via email as some customers
+    prefer this form of communication.
 
 ### After considering above, I have decided to struture my website with below elements:
 
@@ -191,6 +195,8 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 > I would like to add functionality to images to show up as modal boxes while clicked on it, so user would be able to see full screen image.
 
+---
+
 <a name="technologies"></a>
 
-# $${\color{orange}Technology \space Used}$$
+# $${\color{orange}Technologies \space Used}$$
