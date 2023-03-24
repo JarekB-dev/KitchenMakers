@@ -126,6 +126,37 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ![About us section and cards](assets/images/features/about-us.png)
 
-Section showcasing company and its values followed with 3 cards that tell potential customers more about the company
+> Section showcasing Kitchen Makers profile and its values followed with 3 cards that tell potential customers more about the company
 
 ![About us cards](assets/images/features/about-us-cards.png)
+
+> Steps potential customer will follow to have their dream kitchen designed and built.
+> ![Design Steps](assets/images/features/design-steps.png)
+
+**Contact Us Section**
+
+![Contact form](assets/images/features/contact-form.png)
+
+> Contact form for customers preferring this form of communication.
+
+> Address of Kitchen Makers' Showroom and opening hours.
+
+> email address that can be clicked and sent from users default email client because of mailto: property and phone number with tel: property.
+
+**Footer**
+
+![Footer Section](assets/images/features/footer.png)
+
+> Footer section with Kitchen Makers brand as well as links to social media that while clicked will open in new Tab.
+
+**Portfolio**
+
+![Portfolio](assets/images/features/portfolio.png)
+
+> External website that shares the same header and footer. Also, theme is the same for consistency and better user experience. Idea was to display previous projects Kitchen Makers worked on to ensure potential customers that they have quite an experience in that field.
+
+#### On smaller screens view will change to show 1 image at the time.
+
+![Portfolio on mobile devices](assets/images/features/portfolio-small.png)
+
+<img src= "assets/images/features/portfolio-small.png" align= "left" width= 75%>
