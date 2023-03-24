@@ -22,16 +22,17 @@
 
 1. [UX](#ux)
 2. [Features](#features)
-3. [Testing](#testing)
-4. [Technologies used](#technologies)
-5. [Deployment](#deployment)
-6. [Content](#content)
-7. [Credits](#credits)
-8. [Acknowledgments](#acknowledgments)
-
-# $${\color{orange}UX}$$
+3. [Features to implement](#implement)
+4. [Testing](#testing)
+5. [Technologies used](#technologies)
+6. [Deployment](#deployment)
+7. [Content](#content)
+8. [Credits](#credits)
+9. [Acknowledgments](#acknowledgments)
 
 <a name="ux"></a>
+
+# $${\color{orange}UX}$$
 
 ### During the design process, I approached it from two different perspectives - Client and Business Owner. The goals and priorities of each party are different and require different approaches to be able to fulfill their needs :
 
@@ -106,9 +107,9 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ---
 
-# $${\color{orange}Features}$$
-
 <a name="features"></a>
+
+# $${\color{orange}Features}$$
 
 **Navigation Bar**
 
@@ -158,5 +159,3 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 #### On smaller screens view will change to show 1 image at the time.
 
 ![Portfolio on mobile devices](assets/images/features/portfolio-small.png)
-
-<img src= "assets/images/features/portfolio-small.png" align= "left" width= 75%>
