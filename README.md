@@ -38,20 +38,20 @@
 
 > Potential Client :
 
-- I would like to find company specialised in custom kitchens.
-- I would like to see what materials, brands and technology they use to make sure they will be able to fullfil all orders.
-- I would like to see portoflio of the company to make sure they are reliable company.
-- I would like to contact the company via phone or email.
-- I would like to know the showroom address and opening hours.
+    - I would like to find company specialised in custom kitchens.
+    - I would like to see what materials, brands and technology they use to make sure they will be able to fullfil all orders.
+    - I would like to see portoflio of the company to make sure they are reliable company.
+    - I would like to contact the company via phone or email.
+    - I would like to know the showroom address and opening hours.
 
 > Business Owner :
 
-- I would like to present my company to potential customers.
-- I would like my website to be fully responsive as currently more people view websites on mobile devices than desktops/laptops.
-- I would like to ensure potential customers that we are competent and experienced company.
-- I would like to showcase my previous projects.
-- I would like my customers to easily be able to navigate through our website and find contact information.
-- I would like to give opportunity my clients to contact us via email as some customers prefer this form of communication.
+    - I would like to present my company to potential customers.
+    - I would like my website to be fully responsive as currently more people view websites on mobile devices than desktops/laptops.
+    - I would like to ensure potential customers that we are competent and experienced company.
+    - I would like to showcase my previous projects.
+    - I would like my customers to easily be able to navigate through our website and find contact information.
+    - I would like to give opportunity my clients to contact us via email as some customers prefer this form of communication.
 
 ### After considering above, I have decided to struture my website with below elements:
 
@@ -79,15 +79,15 @@
 
 My decision was that the most effective way to design our site would be a minimalistic one, which would incorporate toned colors in order to create a contemporary and elegant look. I went with 3 colours:
 
-- #f7f7f7 - White with a shade of grey
-- #393e46 - Dark Grey
-- #f2e7d5 - Beige
+    - #f7f7f7 - White with a shade of grey
+    - #393e46 - Dark Grey
+    - #f2e7d5 - Beige
 
 I wanted to make sure that colors have proper contrast and are easily read by visual impaired users. Also, fonts have been chosen with same in mind to make sure that all information is clear and easy to read. Therefore, website contains 3 font types:
 
-- Loto
-- Mandali
-- Roboto
+    - Loto
+    - Mandali
+    - Roboto
 
 ## Wireframes
 
@@ -159,6 +159,38 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ![Portfolio](assets/images/features/portfolio.png)
 
-#### On smaller screens view will change to show 1 image at the time.
+#### On smaller screens view will change to show 1 image at the time :
 
 ![Portfolio on mobile devices](assets/images/features/portfolio-small.png)
+
+---
+
+<a name="implement"></a>
+
+# $${\color{orange}Features \space to \space Implement}$$
+
+## Navigation Bar
+
+> I would like to make Navigation bar smaller when user will start scrolling down.
+> Change link for "hamburger" menu on smaller devices so it will give up some space under the brand name.
+
+## Hero Section
+
+> Plan to add multiple full size images that will change after 10 seconds.
+
+## About Us Section
+
+> I would like to change cards for flip cards with image as full card size and text on the other side.
+> I have an idea to change layout of design steps cards so they will appear one after another while scrolling down.
+
+## Contact Us Section
+
+> I would like to add "Chat with us" option at the right bottom side of the screen with popup window. That way potential clients will be able to contact us via instant messaging.
+
+## Portfolio
+
+> I would like to add functionality to images to show up as modal boxes while clicked on it, so user would be able to see full screen image.
+
+<a name="technologies"></a>
+
+# $${\color{orange}Technology \space Used}$$
