@@ -200,3 +200,23 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 <a name="technologies"></a>
 
 # $${\color{orange}Technologies \space Used}$$
+
+## HTML
+
+> Used to properly structure my project.
+
+## CSS
+
+> Used to style my project and change layout of elements.
+
+## Google Fonts
+
+> Used for all fonts in my project.
+
+## Favicon.cc
+
+> Used to create Favicon Logo.
+
+## Freeconvert.com
+
+> Used to convert my images to Webp format for smaller sizes and improving loading times.
