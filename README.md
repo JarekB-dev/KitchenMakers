@@ -30,9 +30,13 @@
 8. [Credits](#credits)
 9. [Acknowledgments](#acknowledgments)
 
+---
+
 <a name="ux"></a>
 
 # $${\color{orange}UX}$$
+
+---
 
 ### During the design process, I approached it from two different perspectives - Client and Business Owner. The goals and priorities of each party are different and require different approaches to be able to fulfill their needs :
 
@@ -115,6 +119,8 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 # $${\color{orange}Features}$$
 
+---
+
 **Navigation Bar**
 
 - Navigation Bar with fixed top position containing brand and links for quicker navigation.
@@ -173,6 +179,8 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 # $${\color{orange}Features \space to \space Implement}$$
 
+---
+
 ## Navigation Bar
 
 > I would like to make Navigation bar smaller when user will start scrolling down.
@@ -200,6 +208,8 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 <a name="technologies"></a>
 
 # $${\color{orange}Technologies \space Used}$$
+
+---
 
 ## HTML
 
@@ -230,6 +240,8 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 <a name="testing"></a>
 
 # $${\color{orange}Testing}$$
+
+---
 
 ## Devices
 
@@ -325,6 +337,8 @@ Results of the test :
 
 # $${\color{orange}Deployment}$$
 
+---
+
 ## Site was deployed using GitHub pages following steps below:
 
 1. Navigate to repository that can be found here : [Repository](https://github.com/JarekB-dev/KitchenMakers)
@@ -348,6 +362,8 @@ Results of the test :
 <a name="credits"></a>
 
 # $${\color{orange}Credits}$$
+
+---
 
 ## Images :
 
