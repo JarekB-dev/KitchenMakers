@@ -26,7 +26,7 @@
 4. [Technologies Used](#technologies)
 5. [Testing](#testing)
 6. [Deployment](#deployment)
-7. [Content](#content)
+7. [Resources](#resources)
 8. [Credits](#credits)
 9. [Acknowledgments](#acknowledgments)
 
@@ -333,6 +333,38 @@ Results of the test :
 
 8. After couple of minutes link to live website was shown above `Source` section.
 
+<a name="resources"></a>
+
+# $${\color{orange}Resources}$$
+
+### BEM
+
+> BEM naming convention that help me with naming classes. - (https://getbem.com/introduction/)
+
+### Reset CSS
+
+> Reset Css by Josh Comeau helped me to override browser default settings - (https://www.joshwcomeau.com/css/custom-css-reset/)
+
+### Kevin Powell
+
+> Youtuber Kevin Powell helped me during this project with his tutorials and tips. - (https://www.youtube.com/@KevinPowell)
+
+### Stack Overflow
+
+> Used to overcome issues with horizontal scrolling with hero image. - (https://stackoverflow.com/)
+
+### Color Hunt
+
+> Used for color theme inspiration - (https://colorhunt.co/)
+
+### Canva
+
+> Helped me during this project with inspiration and layout - (https://www.canva.com/)
+
+### Balsamiq
+
+> Used to create Wireframes for this project. - (https://balsamiq.com/)
+
 <a name="credits"></a>
 
 # $${\color{orange}Credits}$$
@@ -366,3 +398,11 @@ Results of the test :
 - Portfolio image 8 - [Photo by Sidekix Media from Unsplash.com](https://unsplash.com/photos/oCw5_evbWyI).
 
 ## All images where used for educational purposes only.
+
+<a name="acknowledgments"></a>
+
+# $${\color{orange}Acknowledgments}$$
+
+## Derek McAuley
+
+> My Mentor that provided me with helpful tips, feedback and support during this project.
