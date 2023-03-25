@@ -30,13 +30,9 @@
 8. [Credits](#credits)
 9. [Acknowledgments](#acknowledgments)
 
----
-
 <a name="ux"></a>
 
 # $${\color{orange}UX}$$
-
----
 
 ### During the design process, I approached it from two different perspectives - Client and Business Owner. The goals and priorities of each party are different and require different approaches to be able to fulfill their needs :
 
@@ -113,13 +109,9 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ![Mobile View Wireframe](assets/images/wireframes/phone-view.png)
 
----
-
 <a name="features"></a>
 
 # $${\color{orange}Features}$$
-
----
 
 **Navigation Bar**
 
@@ -173,13 +165,9 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ![Portfolio on mobile devices](assets/images/features/portfolio-small.png)
 
----
-
 <a name="implement"></a>
 
 # $${\color{orange}Features \space to \space Implement}$$
-
----
 
 ## Navigation Bar
 
@@ -203,13 +191,9 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 > I would like to add functionality to images to show up as modal boxes while clicked on it, so user would be able to see full screen image.
 
----
-
 <a name="technologies"></a>
 
 # $${\color{orange}Technologies \space Used}$$
-
----
 
 ## HTML
 
@@ -235,13 +219,9 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 > Used to convert my images to Webp format for smaller sizes and improving loading times.
 
----
-
 <a name="testing"></a>
 
 # $${\color{orange}Testing}$$
-
----
 
 ## Devices
 
@@ -331,13 +311,9 @@ Results of the test :
 
 5. Grid issue with correctly displaying images on portfolio.html site. - **FIXED**
 
----
-
 <a name="deployment"></a>
 
 # $${\color{orange}Deployment}$$
-
----
 
 ## Site was deployed using GitHub pages following steps below:
 
@@ -357,13 +333,9 @@ Results of the test :
 
 8. After couple of minutes link to live website was shown above `Source` section.
 
----
-
 <a name="credits"></a>
 
 # $${\color{orange}Credits}$$
-
----
 
 ## Images :
 
