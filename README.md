@@ -325,7 +325,7 @@ Results of the test :
 
 # $${\color{orange}Deployment}$$
 
-### Site was deployed using GitHub pages following steps below:
+## Site was deployed using GitHub pages following steps below:
 
 1. Navigate to repository that can be found here : [Repository](https://github.com/JarekB-dev/KitchenMakers)
 
@@ -342,3 +342,39 @@ Results of the test :
 7. Select `Save`.
 
 8. After couple of minutes link to live website was shown above `Source` section.
+
+---
+
+<a name="credits"></a>
+
+# $${\color{orange}Credits}$$
+
+## Images :
+
+- Hero Image - [Photo by Steven Ungermann from Unsplash](https://unsplash.com/photos/fZ1vlupgdSY).
+
+- Card Latest Technology - [Photo from licon.pl ](https://licon.pl/rozkroj-ciecie-plyt/).
+
+- Card Materials - [Photo from strefaplyt.pl](https://strefaplyt.pl/wizytowka/106).
+
+- Card Custom Design - [Photo from maclorboy.com](https://www.malcorboy.com/our-story/index.php/2017/07/26/expect-interior-design-consultation).
+
+- Design Steps Background - [Photo from jsdeco.co.uk](https://jsdeco.co.uk/egger-furniture-components-used-in-js-deco-products/).
+
+- Portfolio image 1 - [Photo by Naomi Hebert from Unsplash.com](https://unsplash.com/photos/MP0bgaS_d1c).
+
+- Portfolio image 2 - [Photo by Bilal Mansuri from Pexels.com](https://www.pexels.com/photo/brown-and-black-industrial-style-kitchen-9757618/).
+
+- Portfolio image 3 - [Photo by Curtis Adams from Pexels.com](https://www.pexels.com/photo/photo-of-white-kitchen-4682110/).
+
+- Portfolio image 4 - [Photo by Mark McCammon from Pexels.com](https://www.pexels.com/photo/kitchen-and-dining-area-1080721/).
+
+- Portfolio image 5 - [Photo by Mark McCammon from Pexels.com](https://www.pexels.com/photo/kitchen-with-furniture-and-appliances-2724748/).
+
+- Portfolio image 6 - [Photo by Max Rahubovskiy from Pexels.com](https://www.pexels.com/photo/spacious-kitchen-with-black-leather-padded-bar-stools-and-wooden-cabinets-8089079/).
+
+- Portfolio image 7 - [Photo from arredaremoderno.com](https://www.arredaremoderno.com/blog/en/kitchens-with-sliding-doors-photos-and-pictures/).
+
+- Portfolio image 8 - [Photo by Sidekix Media from Unsplash.com](https://unsplash.com/photos/oCw5_evbWyI).
+
+## All images where used for educational purposes only.
