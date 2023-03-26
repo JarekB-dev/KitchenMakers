@@ -401,7 +401,7 @@ Results of the test :
 
 - Portfolio image 8 - [Photo by Sidekix Media from Unsplash.com](https://unsplash.com/photos/oCw5_evbWyI).
 
-## All images where used for educational purposes only.
+## All images were used for educational purposes only.
 
 <a name="acknowledgments"></a>
 
