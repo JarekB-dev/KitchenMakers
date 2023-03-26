@@ -149,6 +149,10 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ![Contact form](assets/images/features/contact-form.png)
 
+- After submitting form user is taken to confirmation website to inform about successful input.
+
+![Form Confirmation](assets/images/features/success.png)
+
 **Footer**
 
 - Footer section with Kitchen Makers brand as well as links to social media that while clicked will open in new Tab.
