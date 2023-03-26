@@ -389,7 +389,7 @@ Results of the test :
 
 - Portfolio image 2 - [Photo by Bilal Mansuri from Pexels.com](https://www.pexels.com/photo/brown-and-black-industrial-style-kitchen-9757618/).
 
-- Portfolio image 3 - [Photo by Curtis Adams from Pexels.com](https://www.pexels.com/photo/photo-of-white-kitchen-4682110/).
+- Portfolio image 3 - [Photo by Max Rahubovskiy from Pexels.com](https://www.pexels.com/photo/interior-of-contemporary-kitchen-with-wooden-table-and-furniture-in-modern-apartment-6284237/).
 
 - Portfolio image 4 - [Photo by Mark McCammon from Pexels.com](https://www.pexels.com/photo/kitchen-and-dining-area-1080721/).
 
