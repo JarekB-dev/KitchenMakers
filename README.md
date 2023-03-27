@@ -8,7 +8,7 @@
 
 ---
 
-![Kitchen Makers website on different devices](assets/images/reponsive-screenshot.png)
+![Kitchen Makers website on different devices](documentation/reponsive-screenshot.png)
 
 ### [Live Site](https://jarekb-dev.github.io/KitchenMakers/)
 
@@ -98,7 +98,7 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ---
 
-![Desktop View Wireframe](assets/images/wireframes/desktop-view.png)
+![Desktop View Wireframe](documentation/wireframes/desktop-view.png)
 
 ---
 
@@ -106,7 +106,7 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ---
 
-![Mobile View Wireframe](assets/images/wireframes/phone-view.png)
+![Mobile View Wireframe](documentation/wireframes/phone-view.png)
 
 <a name="features"></a>
 
@@ -116,27 +116,27 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 - Navigation Bar with fixed top position containing brand and links for quicker navigation.
 
-![Navigation Bar](assets/images/features/navbar.png)
+![Navigation Bar](documentation/features/navbar.png)
 
 **Hero Section**
 
 - full size image with scale animation and slogan in the middle of the screen.
 
-![Hero Image and Slogan](assets/images/features/hero.png)
+![Hero Image and Slogan](documentation/features/hero.png)
 
 **About Us Section**
 
 - Section showcasing Kitchen Makers profile and its values.
 
-![About us section and cards](assets/images/features/about-us.png)
+![About us section and cards](documentation/features/about-us.png)
 
 - 3 cards that tell potential customers more about the company.
 
-![About us cards](assets/images/features/about-us-cards.png)
+![About us cards](documentation/features/about-us-cards.png)
 
 - Steps potential customer will follow to have their dream kitchen designed and built.
 
-> ![Design Steps](assets/images/features/design-steps.png)
+> ![Design Steps](documentation/features/design-steps.png)
 
 **Contact Us Section**
 
@@ -146,27 +146,27 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 - Email address that can be clicked and email sent directly from users default email client because of mailto: property and phone number with tel: property.
 
-![Contact form](assets/images/features/contact-form.png)
+![Contact form](documentation/features/contact-form.png)
 
 - After submitting form user is taken to confirmation website to inform about successful input.
 
-![Form Confirmation](assets/images/features/success.png)
+![Form Confirmation](documentation/features/success.png)
 
 **Footer**
 
 - Footer section with Kitchen Makers brand as well as links to social media that while clicked will open in new Tab.
 
-![Footer Section](assets/images/features/footer.png)
+![Footer Section](documentation/features/footer.png)
 
 **Portfolio**
 
 - An external website that shares the same header and footer. In addition, the theme is the same for consistency and a better user experience. A few previous projects Kitchen Makers worked on were displayed as a way to show prospective customers that the company has quite a bit of experience in this field.
 
-![Portfolio](assets/images/features/portfolio.png)
+![Portfolio](documentation/features/portfolio.png)
 
 #### On smaller screens view will change to show 1 image at the time :
 
-![Portfolio on mobile devices](assets/images/features/portfolio-small.png)
+![Portfolio on mobile devices](documentation/features/portfolio-small.png)
 
 <a name="implement"></a>
 
@@ -280,27 +280,27 @@ Results of the test :
 
 1. Main Page
 
-![Google Chrome Lighthouse result for index.html](assets/images/testing/index-lighthouse.png)
+![Google Chrome Lighthouse result for index.html](documentation/testing/index-lighthouse.png)
 
 2. Portfolio
 
-![Google Chrome Lighthouse result for portfolio.html](assets/images/testing/portfolio-lighthouse.png)
+![Google Chrome Lighthouse result for portfolio.html](documentation/testing/portfolio-lighthouse.png)
 
 ## HTML Validator
 
 1. index.html
 
-![index.html validated by HTML Validator](assets/images/testing/html-validated.png)
+![index.html validated by HTML Validator](documentation/testing/html-validated.png)
 
 > Warnings regarding using a forward slash with a void (single tag) elements.
 
 2. portfolio.html
 
-![portfolio.html validated by HTML Validator](assets/images/testing/portfolio-validated.png)
+![portfolio.html validated by HTML Validator](documentation/testing/portfolio-validated.png)
 
 ## CSS Validator
 
-![Css validated by CSS Validator](assets/images/testing/css-validated.png)
+![Css validated by CSS Validator](documentation/testing/css-validated.png)
 
 ## Bugs
 
