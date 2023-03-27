@@ -4,7 +4,7 @@
 
 ---
 
-### _Kitchen Makers' goal is to help customers create their dream kitchen by offering a wide variety of options and customizations. The website will provide customers with information about the company, its products and services, and the process of designing, manufacturing, and installing custom kitchens._
+### _Kitchen Makers' goal is to help customers create their dream kitchen by offering a wide variety of options and customisations. The website will provide customers with information about the company, its products and services, and the process of designing, manufacturing, and installing custom kitchens._
 
 ---
 
