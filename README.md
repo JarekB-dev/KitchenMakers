@@ -41,7 +41,7 @@
     - I would like to find company specialised in custom kitchens.
     - I would like to see what materials, brands and technology they use to make sure they will be able
     to fullfil all orders.
-    - I would like to see portoflio of the company to make sure they are reliable company.
+    - To make sure they are a trustworthy company, I would like to see their portfolio.
     - I would like to contact the company via phone or email.
     - I would like to know the showroom address and opening hours.
 
@@ -54,10 +54,9 @@
     - I would like to showcase my previous projects.
     - I would like my customers to easily be able to navigate through our website and find
     contact information.
-    - I would like to give opportunity my clients to contact us via email as some customers
-    prefer this form of communication.
+    - The majority of my customers prefer to communicate via email, so I would like to provide the option for them to do so.
 
-### After considering above, I have decided to struture my website with below elements:
+### Based on the above considerations, I have decided to design my website with the following elements:
 
 **Navigation Bar**
 
@@ -69,7 +68,7 @@
 
 **About us**
 
-> Section showcases our company and technologies we use as well as materials and steps of designing kitchen with help of our designers.
+> In this section we provide information about our company, the technologies we use, as well as the materials and steps involved in designing a kitchen with the help of our designers.
 
 **Contact**
 
@@ -161,7 +160,7 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 **Portfolio**
 
-- External website that shares the same header and footer. Also, theme is the same for consistency and better user experience. Idea was to display previous projects Kitchen Makers worked on to ensure potential customers that they have quite an experience in that field.
+- An external website that shares the same header and footer. In addition, the theme is the same for consistency and a better user experience. A few previous projects Kitchen Makers worked on were displayed as a way to show prospective customers that the company has quite a bit of experience in this field.
 
 ![Portfolio](assets/images/features/portfolio.png)
 
@@ -229,7 +228,7 @@ I wanted to make sure that colors have proper contrast and are easily read by vi
 
 ## Devices
 
-#### I was testing project myself with help of my colleagues to check responsivness on different devices and to make sure that website is easy to navigate. Testing was performed on below devices:
+#### In order to check responsiveness on different devices and to ensure that the website is easy to use, I tested the project myself with the help of my colleagues. The following devices were used for testing:
 
 > Desktop with viewport 2560x1440
 
