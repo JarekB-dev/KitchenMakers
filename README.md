@@ -336,6 +336,8 @@ Results of the test :
 
 8. After couple of minutes link to live website was shown above `Source` section.
 
+## For more information please follow this link: [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
 <a name="resources"></a>
 
 # $${\color{orange}Resources}$$
